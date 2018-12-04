@@ -51,7 +51,7 @@ int main(int argc, string argv[])
             }
         }
         printf("\n");
-// if it is it encode it into cipher-text using 'specific passcode'
+// if it is it encode  it into cipher-text using 'specific passcode'
         return 0;
     }
 }
